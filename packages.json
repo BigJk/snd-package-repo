@@ -1,0 +1,17 @@
+{
+   "name":"Official Package Repo",
+   "author":"BigJk",
+   "description":"Contains templates, data sources and generators from the community.",
+   "entries":[
+      {
+         "author":"BigJk",
+         "contact":"Instantnoodl#0484",
+         "repos":[
+            "https://github.com/BigJk/snd-bigjk-templates.git",
+            "https://github.com/BigJk/snd-open5e",
+            "https://github.com/BigJk/snd-srd-bestiary.git",
+            "https://github.com/BigJk/snd-bfrpg-monster"
+         ]
+      }
+   ]
+}
