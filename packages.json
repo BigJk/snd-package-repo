@@ -12,6 +12,13 @@
             "https://github.com/BigJk/snd-srd-bestiary.git",
             "https://github.com/BigJk/snd-bfrpg-monster.git"
          ]
+      },
+      {
+         "author":"nbadal",
+         "contact":"Aphitex#2946",
+         "repos":[
+            "https://github.com/nbadal/snd-nbadal-templates.git"
+         ]
       }
    ]
 }
