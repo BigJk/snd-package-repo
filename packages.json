@@ -19,6 +19,13 @@
          "repos":[
             "https://github.com/nbadal/snd-nbadal-templates.git"
          ]
+      },
+      {
+         "author":"frshbeetz",
+         "contact":"rmrfslsh#6033",
+         "repos":[
+            "https://github.com/frshbeetz/snd-EVT-templates.git"
+         ]
       }
    ]
 }
