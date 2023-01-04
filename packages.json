@@ -4,6 +4,11 @@
    "description":"Contains templates, data sources and generators from the community. If you want to publish your repos here you need to visit the discord server of Sales & Dungeons.",
    "entries":[
       {
+         "author":"Sales & Dungeons",
+         "contact":"https://discord.gg/5MUZEjc",
+         "repos":[ "https://github.com/BigJk/snd-default-templates.git" ]
+      },
+      {
          "author":"BigJk",
          "contact":"Instantnoodl#0484",
          "repos":[
