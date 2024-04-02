@@ -6,30 +6,60 @@
       {
          "author":"Sales & Dungeons",
          "contact":"https://discord.gg/5MUZEjc",
-         "repos":[ "https://github.com/BigJk/snd-default-templates.git" ]
+         "repos":[
+            {
+               "name":"Default Templates",
+               "description":"Basic official default and example templates",
+               "url":"https://github.com/BigJk/snd-default-templates.git"
+            }
+         ]
       },
       {
          "author":"BigJk",
-         "contact":"Instantnoodl#0484",
+         "contact":"instantnoodl on Discord",
          "repos":[
-            "https://github.com/BigJk/snd-bigjk-templates.git",
-            "https://github.com/BigJk/snd-open5e.git",
-            "https://github.com/BigJk/snd-srd-bestiary.git",
-            "https://github.com/BigJk/snd-bfrpg-monster.git"
+            {
+               "url":"https://github.com/BigJk/snd-bigjk-templates.git",
+               "name":"BigJk's Template Collection",
+               "description":"Contains various templates for 5e, OSE, DCC and more"
+            },
+            {
+               "url":"https://github.com/BigJk/snd-open5e.git",
+               "name":"Open5e Data Source",
+               "description":"Contains monsters, items and more for 5e"
+            },
+            {
+               "url":"https://github.com/BigJk/snd-srd-bestiary.git",
+               "name":"5e SRD Bestiary",
+               "description":"Contains monsters, items and more for 5e"
+            },
+            {
+               "url":"https://github.com/BigJk/snd-bfrpg-monster.git",
+               "name":"BFRPG Monsters",
+               "description":"Contains SRD monsters for Basic Fantasy RPG"
+            }
          ]
       },
       {
          "author":"nbadal",
-         "contact":"Aphitex#2946",
+         "contact":"nbadal on Discord",
          "repos":[
-            "https://github.com/nbadal/snd-nbadal-templates.git"
+            {
+               "url":"https://github.com/nbadal/snd-nbadal-templates.git",
+               "name":"nbadal's Collection",
+               "description":""
+            }
          ]
       },
       {
          "author":"frshbeetz",
-         "contact":"rmrfslsh#6033",
+         "contact":"frshbeetz on Discord",
          "repos":[
-            "https://github.com/frshbeetz/snd-EVT-templates.git"
+            {
+               "url":"https://github.com/frshbeetz/snd-EVT-templates.git",
+               "name":"frshbeetz's Collection",
+               "description":""
+            }
          ]
       }
    ]
