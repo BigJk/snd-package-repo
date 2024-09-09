@@ -61,6 +61,17 @@
                "description":""
             }
          ]
+      },
+      {
+         "author":"Elfenspalter",
+         "contact":"elfenspalter on Discord",
+         "repos":[
+            {
+               "url":"https://github.com/Elfenspalter/SalesAndDonkeys.git",
+               "name":"Elfenspalter's Mothership Stuff",
+               "description":"Contains mostly Mothership related or other generic sci-fi stuff"
+            }
+         ]
       }
    ]
 }
