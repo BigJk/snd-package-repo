@@ -68,8 +68,13 @@
          "repos":[
             {
                "url":"https://github.com/Elfenspalter/SalesAndDonkeys.git",
+               "name":"Elfenspalter's Stuff",
+               "description":"Contains mostly generic sci-fi stuff"
+            },
+            {
+               "url":"https://github.com/Elfenspalter/SD_MoSh.git",
                "name":"Elfenspalter's Mothership Stuff",
-               "description":"Contains mostly Mothership related or other generic sci-fi stuff"
+               "description":"Contains Mothership stuff"
             }
          ]
       }
