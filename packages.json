@@ -83,9 +83,9 @@
          "contact":"michaelk7065 on Discord",
          "repos":[
             {
-               "url":"https://github.com/michaelkleinhenz/snd-5etools-templates.git",
-               "name":"MichaelK's 5etools Templates",
-               "description":"Contains 5e templates for imported 5etools data"
+               "url":"https://github.com/michaelkleinhenz/snd-fightclub5e-templates.git",
+               "name":"MichaelK's FightClub5e Templates",
+               "description":"Sales and Dungeons Templates for the FightClub5e Data Source"
             }
          ]
       }
