@@ -88,6 +88,17 @@
                "description":"Sales and Dungeons Templates for the FightClub5e Data Source"
             }
          ]
+      },
+      {
+         "author":"tatourmi",
+         "contact":"tatourmi on Discord",
+         "repos":[
+            {
+               "url":"git@github.com:Lavaill/snd-tatourmi-templates.git",
+               "name":"MOTHERSHIP THERMAL TEMPLATES",
+               "description":"Meant for use with the Mothership role-playing game or any industrial Sci-Fi with a hint of corporate dystopia"
+            }
+         ]
       }
    ]
 }
